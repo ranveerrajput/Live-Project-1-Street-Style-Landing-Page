@@ -1,0 +1,159 @@
+nav div {
+  position: relative;
+  top: 40px;
+  left: 130px;
+}
+body {
+  overflow: hidden;
+}
+div ul {
+  list-style: none;
+}
+
+div ul li.list-item:first-child {
+  position: relative;
+  bottom: 50px;
+  left: 300px;
+  font-size: 25px;
+  font-family: Orbitron;
+  font-weight: bold;
+  text-decoration: underline;
+}
+li.list-item:nth-child(2) {
+  position: relative;
+  bottom: 83px;
+  left: 570px;
+  font-size: 25px;
+  font-family: Orbitron;
+  font-weight: bold;
+}
+li.list-item:nth-child(3) {
+  position: relative;
+  bottom: 116px;
+  left: 430px;
+  font-size: 25px;
+  font-family: Orbitron;
+  font-weight: bold;
+}
+li.list-item:nth-child(4) {
+  position: relative;
+  bottom: 145px;
+  left: 695px;
+  font-size: 25px;
+  font-family: Orbitron;
+  font-weight: bold;
+}
+li.list-item:nth-child(5) {
+  position: relative;
+  bottom: 180px;
+  left: 800px;
+  font-size: 25px;
+  font-family: Orbitron;
+  font-weight: bold;
+}
+
+svg {
+  position: relative;
+  bottom: 255px;
+  left: 1000px;
+  width: 30px;
+}
+.nav-button {
+  position: relative;
+  bottom: 300px;
+  left: 1050px;
+  font-size: 25px;
+  border-radius: 10px;
+}
+
+.globe {
+  position: relative;
+  bottom: 520px;
+  left: 350px;
+  width: 30px;
+  height: 30px;
+}
+.square {
+  position: relative;
+  top: 30px;
+  left: 210px;
+}
+.hero-container div > img {
+  position: relative;
+  bottom: 600px;
+  left: 110px;
+  height: 560px;
+  width: 445px;
+}
+.star {
+  position: relative;
+
+  left: 300px;
+  height: 50%;
+  width: 50%;
+}
+h1.hero-heading {
+  position: relative;
+  font-weight: bold;
+  font-size: 60px;
+  bottom: 1100px;
+  left: 650px;
+  font-family: Orbitron;
+}
+p.hero-description {
+  position: relative;
+  font-size: 15px;
+  bottom: 1085px;
+  left: 760px;
+  word-wrap: break-word;
+  width: 600px;
+  font-family: Orbitron;
+  text-align: center;
+}
+.button-email {
+  position: relative;
+  font-size: 20px;
+  bottom: 1000px;
+  left: 950px;
+  font-family: Orbitron;
+  border-radius: 10px;
+  background-color: #fcfcfc;
+  color: rgb(0, 0, 0);
+}
+.button-join {
+  position: relative;
+  font-size: 20px;
+  bottom: 1000px;
+  left: 980px;
+  font-family: Orbitron;
+  border-radius: 10px;
+  background-color: rgb(0, 0, 0);
+  color: rgb(250, 250, 250);
+}
+.contact-heading {
+  position: relative;
+  font-size: 20px;
+  bottom: 940px;
+  left: 1060px;
+  font-family: Orbitron;
+}
+.icons :first-child {
+  position: relative;
+  bottom: 470px;
+  left: 510px;
+}
+.icons :nth-child(2) {
+  position: relative;
+  bottom: 470px;
+  left: 520px;
+}
+.icons :nth-child(3) {
+  position: relative;
+  bottom: 470px;
+  left: 530px;
+}
+.icons :nth-child(4) {
+  position: relative;
+  bottom: 470px;
+  left: 540px;
+}
